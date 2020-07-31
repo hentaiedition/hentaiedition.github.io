@@ -41,7 +41,9 @@ For Linux and Mac users: Instead of running the EXE, use 7-zip or a similar prog
 ## FAQ
 
 #### Why are there two parts to each option?
-Github can't handle files over 2 GB. Some really bad Protegent-level antiviruses may complain about the self-extractor EXEs. These antiviruses will complain about literally any self extractor, even one with just CMD in it. If you are concerned, you can use 7-zip or WinRAR to extract the files from them directly.
+Github can't handle files over 2 GB. The ISO is 2.6 GB and the container is around 4 GB, so they have to be split.
+
+Some really bad Protegent-level antiviruses may complain about the self-extractor EXEs. These antiviruses will complain about literally any self extractor, even one with just CMD in it. If you are concerned, you can use 7-zip or WinRAR to extract the files from them directly.
 
 #### Will the Containerized Subsystem for Hentai screw up my files?
 It shouldn't. After all, it's built on VirtualBox, which is tried-and-tested open source software used by millions.
