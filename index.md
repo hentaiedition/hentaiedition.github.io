@@ -6,6 +6,7 @@ while bundling your favorite otaku features and applications directly into one l
 
 Key features include:
 * Built-in animated wallpaper system with 11 included animated wallpapers, plus 24 still-image anime backgrounds
+* Several different visual themes to choose from, including Windows 7, 10, XP and 2000, as well as others
 * HyperCum 2, a high-quality, user-friendly screen recording application
 * AraAra Browser, a state-of-the-art Web browser that supports modern standards such as HTML5 and TLS 1.3
 * The HSN News app, which brings content from the best anime news sources directly to your PC
